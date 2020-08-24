@@ -23,8 +23,11 @@ The server returns a link which allows the user to retrieve the message back. Wh
 ## Cyber Security
 This concept digitises the age-old concept of “dead drops” to securely send information or goods from one person to the next. Links to the site will largely mimic this, but also using modern encryption methods, providing the security of a one-time message drop but also secure communication between two parties.
 
-While this can be useful to a large number of parties, it could particularly benefit security agencies who may need to communicate with people in difficult positions, where security monitoring is a huge concern. In these cases, having a one-time, anonymous, end-to-end encrypted service to communicate through would be a valuable asset in preventing the leaking of information via data breaches or surveillance.
+While this can be useful to a large number of parties, it could particularly benefit any company who may need to communicate with people in difficult positions, where security monitoring is a huge concern. In these cases, having a one-time, anonymous, end-to-end encrypted service to communicate through would be a valuable asset in preventing the leaking of information via data breaches or surveillance.
 
 
 ## What do I hope to demonstrate?
 Upon completion, this project would aim to demonstrate the viability of one-time use messaging platforms in providing a safe and secure way to send information from one person to the next. It could pave the way for systems involving two-way end-to-end encrypted communication where no information is stored at all, almost a combination of the systems seen in both WhatsApp and Snapchat.
+
+## Potential Future Additions
+...
