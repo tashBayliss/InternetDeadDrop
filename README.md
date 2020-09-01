@@ -30,4 +30,6 @@ While this can be useful to a large number of parties, it could particularly ben
 Upon completion, this project would aim to demonstrate the viability of one-time use messaging platforms in providing a safe and secure way to send information from one person to the next. It could pave the way for systems involving two-way end-to-end encrypted communication where no information is stored at all, almost a combination of the systems seen in both WhatsApp and Snapchat.
 
 ## Potential Future Additions
-...
+* Pen test to flag any vulnerabilties and improve it
+* Detection of malicious files being uploaded and reject
+* make code more scalable
