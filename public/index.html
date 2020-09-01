@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+    <title>Secure File Transfer</title>
+
+
+</head>
+
+<body>
+    <div class="blockBox">
+        <br>
+        <h1>Secure File Transfer</h1>
+
+        <form method="post" enctype="multipart/form-data">
+            <label style="font-size:20px">Select a file: </label><br><br>
+            <input type="file" id="file" name="upload_file" required></input><br><br>
+
+            <label style="font-size:20px">Enter your message:</label><br><br>
+            <textarea class="message" name="message" maxlength="250"></textarea><br><br>
+
+            <input style="border-radius: 8px" type="submit" value="Submit" id="submit">
+        </form>
+        <br>
+
+    </div>
+
+
+</body>
+
+
+
+</html>

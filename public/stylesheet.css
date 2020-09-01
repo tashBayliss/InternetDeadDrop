@@ -1,0 +1,74 @@
+html {
+    background-color: #1F2833;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    font-size:45px;
+    color: #66FCF1;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+    text-decoration: line-through;
+}
+
+.blockBox {
+    /*background-color: #1F2833;*/
+
+    margin: auto;
+    width: 50%;
+
+    position: absolute;
+    /*top: 10%;*/
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+    left: 50%;
+    
+    transform: translateX(-50%);
+
+    color: white;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+input[type=submit] {
+    font-weight: bold;
+    background-color: #1F2833;
+    border-color: #66FCF1;
+
+    color: white;
+    padding: 8px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    border-width: 3px;
+}
+
+.message
+{
+    height: 150px;
+    width: 250px;
+    vertical-align:top;
+}
+
+#submit:hover {
+    background-color: #66FCF1;
+    color: #1F2833;
+}
